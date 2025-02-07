@@ -116,8 +116,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.wyn.videoparser.VideoParserApplication</mainClass>
-                    <skip>true</skip>
+                    <mainClass>com.wyn.video.download.VideoDownloadApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
@@ -130,6 +129,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>

@@ -1,0 +1,10 @@
+2025-02-07 15:37:15.942 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 7860 (http)
+2025-02-07 15:37:16.003 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 322 ms
+2025-02-07 15:37:16.007 [main] INFO  [o.s.boot.web.servlet.ServletRegistrationBean] - Servlet dispatcherServlet mapped to [/]
+2025-02-07 15:37:16.009 [main] INFO  [o.s.boot.web.servlet.FilterRegistrationBean] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2025-02-07 15:37:16.132 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 7860 (http) with context path '/video-parser'
+2025-02-07 15:39:56.046 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 7860 (http)
+2025-02-07 15:39:56.181 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 535 ms
+2025-02-07 15:39:56.186 [main] INFO  [o.s.boot.web.servlet.ServletRegistrationBean] - Servlet dispatcherServlet mapped to [/]
+2025-02-07 15:39:56.188 [main] INFO  [o.s.boot.web.servlet.FilterRegistrationBean] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2025-02-07 15:39:56.422 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 7860 (http) with context path '/video-parser'
