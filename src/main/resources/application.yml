@@ -1,0 +1,9 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /video-parser
+    encoding:
+      charset: utf-8
+      force: true
+      enabled: true
+
